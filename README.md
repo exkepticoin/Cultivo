@@ -1,6 +1,6 @@
 # Reto 3: Grupo P2_C2
-Número máximo de ficheros: 4
-Tipo de trabajo:  Individual
+Número máximo de ficheros: 4.
+Tipo de trabajo:  Individual.
 Ejercicio incluido en el Ciclo 2 del programa MisionTIC2022 del MinTIC Colombia.
 ## Reto 3: Módulo de cultivos de la finca Doña Martha
 La finca Doña Martha le ha solicitado a usted como programador, la creación de una clase en Java que pueda integrar a su sistema de administración de la finca, haciendo uso de la base de datos de la finca.
